@@ -1,3 +1,3 @@
 # jupyter-nb
 
-TODO: Soon comming ... :)
+TODO: Comming soon ... :)
